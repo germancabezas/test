@@ -1,0 +1,28 @@
+body {background: black;}
+div {width: 500px; 
+	margin: auto; 
+	font-family: sans-serif;
+	background: #f0f0f0;
+	padding: 50px;
+	color: gray;
+}
+
+h1, h2 { color: black}
+a.btn { text-decoration: none; 
+	padding: 15px; 
+	background: white;
+	color: black; 
+	display: block;
+	box-sizing:border-box;
+	width: 200px; 
+	margin: auto;
+	border: 4px solid black;
+	text-align: center;
+}
+img {width: 100%; height: auto;}
+a.btn:hover { color: white; background: black; }
+a.info { color: gray; font-size: 10px; margin-top: 40px;
+	text-align: center; display: block;
+}
+
+ul li, ol li { padding-bottom: 10px;}
